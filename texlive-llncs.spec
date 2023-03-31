@@ -1,6 +1,6 @@
 Name:		texlive-llncs
 Version:	64299
-Release:	1
+Release:	2
 Summary:	Document class and bibliography style for Lecture Notes in Computer Science (LNCS)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/llncs
