@@ -1,5 +1,5 @@
 Name:		texlive-llncs
-Version:	68731
+Version:	69629
 Release:	1
 Summary:	Document class and bibliography style for Lecture Notes in Computer Science (LNCS)
 Group:		Publishing
