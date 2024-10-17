@@ -3,7 +3,7 @@ Version:	69629
 Release:	1
 Summary:	Document class and bibliography style for Lecture Notes in Computer Science (LNCS)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/llncs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/llncs
 License:	cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/llncs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/llncs.doc.r%{version}.tar.xz
